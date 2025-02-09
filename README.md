@@ -11,7 +11,7 @@ A basic React Native Notes app using AsyncStorage.
 
 ## Screenshot
 
-![Notes App Screenshot](./assets/images/screenshot.jfif)
+<img src="./assets/images/screenshot.jfif" alt="Notes App Screenshot" width="300" />
 
 ## Installation
 
